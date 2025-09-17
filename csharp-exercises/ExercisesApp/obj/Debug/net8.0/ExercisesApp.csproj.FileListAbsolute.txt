@@ -1,0 +1,14 @@
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\bin\Debug\net8.0\ExercisesApp.exe
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\bin\Debug\net8.0\ExercisesApp.deps.json
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\bin\Debug\net8.0\ExercisesApp.runtimeconfig.json
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\bin\Debug\net8.0\ExercisesApp.dll
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\bin\Debug\net8.0\ExercisesApp.pdb
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\obj\Debug\net8.0\ExercisesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\obj\Debug\net8.0\ExercisesApp.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\obj\Debug\net8.0\ExercisesApp.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\obj\Debug\net8.0\ExercisesApp.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\obj\Debug\net8.0\ExercisesApp.dll
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\obj\Debug\net8.0\refint\ExercisesApp.dll
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\obj\Debug\net8.0\ExercisesApp.pdb
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\obj\Debug\net8.0\ExercisesApp.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Escritorio\fguzman\Test\Examen-java-csharp\csharp-exercises\ExercisesApp\obj\Debug\net8.0\ref\ExercisesApp.dll
