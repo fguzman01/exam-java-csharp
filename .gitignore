@@ -1,0 +1,23 @@
+# Archivos y carpetas a ignorar
+
+# Java
+java-exercises/bin/
+
+# C#
+**/bin/
+**/obj/
+
+# Archivos de usuario de VSCode
+.vscode/
+
+# Archivos temporales y del sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
