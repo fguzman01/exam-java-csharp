@@ -14,10 +14,20 @@ Este repositorio contiene ejercicios de programación en Java y C# para practica
 
 ## Ejercicios incluidos
 
+
 ### Java
 - FizzBuzz
 - HelloWorld
 - Palindrome
+- PrimeNumbers
+- Factorial
+- ReverseString
+- CharCount
+- ArrayMax
+- ArraySum
+- ArraySort
+- ArraySorted
+- BubbleSort
 
 ### C#
 - Palindrome
