@@ -28,6 +28,9 @@ Este repositorio contiene ejercicios de programación en Java y C# para practica
 - ArraySort
 - ArraySorted
 - BubbleSort
+- TextMaxWords
+- Fibonacci
+- BracketBalance
 
 ### C#
 - Palindrome
